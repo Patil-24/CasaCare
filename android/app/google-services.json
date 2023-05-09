@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365886154670",
+    "project_id": "casacarefinal-75237",
+    "storage_bucket": "casacarefinal-75237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365886154670:android:50569a7e1ee52251f08a3f",
+        "android_client_info": {
+          "package_name": "com.casacarefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365886154670-4o8mmvhfn9gal764i2cbiinds8dvmrki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casacarefinal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "365886154670-2250urmqlotcsaia2sder0uhph312ro7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbSph2Ow1qSM-qdv-dYz_2tmU-iJKCUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365886154670-2250urmqlotcsaia2sder0uhph312ro7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
